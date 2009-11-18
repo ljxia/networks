@@ -57,6 +57,9 @@ Examples of parsing an SMS:
 
 Also returns the rest of the SMS omitting the 5-8 code in the beginning
 
+== YARD Documentation
+
+http://rdoc.info/rdoc/ychaker/zeep_it/blob/6b7eab125d99423a54c264c56775589530cea4e4/index.html
 
 == Copyright
 
